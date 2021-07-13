@@ -30,10 +30,12 @@ Les projets ont été sélectionnés selon des critères bien spécifiques comme
 * La qualité globale de la présentation
 * L'expérience utilisateur proposée
 
-https://www.wildcodeschool.com/fr-FR/blog/fiverr-wild-code-school-hackathon?utm_campaign=CONTENT&utm_content=169355286&utm_medium=social&utm_source=facebook&hss_channel=fbp-339727919509400&fbclid=IwAR3sbO07jKKchSxsXiMuMPOqs6_JuoqnkCTxgsU3dLBlnrgAAfhTwV9PcXE
-
 ### Contenu du dossier Github :
 * Présentation réalisée en finale (PowerBI dashboard)
 * Programmation Python - Notebooks utilisés
 * CSV traités pour utilisation dans les notebooks
 * CSV original Fiverr
+
+
+### Lien présentation du Datathon :
+https://www.wildcodeschool.com/fr-FR/blog/fiverr-wild-code-school-hackathon?utm_campaign=CONTENT&utm_content=169355286&utm_medium=social&utm_source=facebook&hss_channel=fbp-339727919509400&fbclid=IwAR3sbO07jKKchSxsXiMuMPOqs6_JuoqnkCTxgsU3dLBlnrgAAfhTwV9PcXE
