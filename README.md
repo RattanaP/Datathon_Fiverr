@@ -1,9 +1,14 @@
 # Datathon_Fiverr
 
-* Type de projet : Hackathon en équipe
+* Type de projet : Hackathon
 * Organisme : Wild Code School x Fiverr
-* Durée du projet : 3 jours (non-stop)
+* Contexte du concours : Equipes composées d'étudiants de la Wild Code School, incluant tous les campus européens. 
+* Organisation : phase de sélection (pools) et phase finale
+* Durée du projet : 3 jours (non-stop) du 28 au 30 juin 2021 + finale le 02 juillet 2021
+
 * Notions de programmation utilisées : Python/PowerBI - exploration de données, Natural Language Processing (NLP), Dataviz, ... 
+
+## Résultats : Finaliste du concours data (3ème place) - Gagnant de la pool Lille/Nantes
 
 ### Qui est Fiverr :
 Fiverr permet aux entreprises de rencontrer les meilleurs talents dans l'univers du numérique via sa plateforme numérique. C'est un facilitateur.
@@ -16,6 +21,15 @@ En plus de provenir des quatre coins du monde, les freelances de Fiverr offrent 
 
 ### Contraintes : 
 Base de données fournies par le client / webscrapping du site limité
+
+### Les critères de sélection pour la finale du 2 juillet 2021
+Les projets ont été sélectionnés selon des critères bien spécifiques comme :
+* 'originalité et la pertinence de la solution proposée
+* La technicité
+* La qualité globale de la présentation
+* L'expérience utilisateur proposée
+
+
 
 ### Contenu du dossier Github :
 
