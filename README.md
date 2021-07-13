@@ -10,9 +10,11 @@
 
 # Résultats : Finaliste du concours data (3ème place) - Gagnant de la pool Lille/Nantes
 
+
 ### Qui est Fiverr :
 Fiverr permet aux entreprises de rencontrer les meilleurs talents dans l'univers du numérique via sa plateforme numérique. C'est un facilitateur.
 En plus de provenir des quatre coins du monde, les freelances de Fiverr offrent des services à la demande, allant du graphisme/design à la data, en passant par le marketing digital, la rédaction/traduction, la vidéo/animation, la musique/audio, la programmation/tech, et bien d’autres !
+
 
 ### Problématique :
 * Thématique : "La communauté de freelances Fiverr"
@@ -20,8 +22,10 @@ En plus de provenir des quatre coins du monde, les freelances de Fiverr offrent 
 * Problématique choisie par l'équipe : Qu'ont en commun les profils des meilleurs freelances Fiverr (top_level) ? Quelles plus-values sont particulèrement appréciés des clients ?
 * Objectif final : Comment peut-on aider les nouveaux arrivant à optimiser leur profil et leur attitude (softskills), afin que ceux-ci deviennent à leur tour des top_level ?
 
+
 ### Contraintes : 
 Base de données fournies par le client / webscrapping du site limité
+
 
 ### Les critères de sélection pour la finale du 2 juillet 2021
 Les projets ont été sélectionnés selon des critères bien spécifiques comme :
@@ -29,6 +33,7 @@ Les projets ont été sélectionnés selon des critères bien spécifiques comme
 * La technicité
 * La qualité globale de la présentation
 * L'expérience utilisateur proposée
+
 
 ### Contenu du dossier Github :
 * Présentation réalisée en finale (PowerBI dashboard)
