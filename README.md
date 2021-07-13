@@ -34,7 +34,7 @@ Les projets ont été sélectionnés selon des critères bien spécifiques comme
 * Présentation réalisée en finale (PowerBI dashboard)
 * Programmation Python - Notebooks utilisés
 * CSV traités pour utilisation dans les notebooks
-* CSV original Fiverr
+* Database original Fiverr (Excel)
 
 
 ### Lien présentation du Datathon :
